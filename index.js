@@ -28,8 +28,8 @@ let weather = {
     document.querySelector(".city").innerText = name;
     document.querySelector(".temp").innerText = tempND + "°F";
     document.querySelector(".conditions").innerText = description;
-    document.querySelector(".hi").innerText = "Hi: " + maxND;
-    document.querySelector(".low").innerText = "Low: " + minND;
+    document.querySelector(".hi").innerText = "Hi: " + maxND + "°F";
+    document.querySelector(".low").innerText = "Low: " + minND + "°F";
     document.querySelector(".time").innerText = time;
   },
   search: function () {
