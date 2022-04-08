@@ -1,0 +1,5 @@
+
+e69f1c9ec550f27d563d6d98e63b84ec
+
+https://api.openweathermap.org/data/2.5/weather?zip=28277&units=imperial&appid=e69f1c9ec550f27d563d6d98e63b84ec
+^28277 imperial key
